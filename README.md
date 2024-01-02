@@ -8,7 +8,7 @@ I have decided to remove any reference to the axis in the naming of skew. Ultima
 * Z axis - the vertical arm, that holds the horizontal arm (up and down).
 * Y axis - the rods where the print bed travels along (forward and backward).
 
-The [original thread](https://forum.prusaprinters.org/forum/hardware-firmware-and-software-help/oh-no-were-skewed-prusa-mini-edition/) on the Prusa forums.
+The [original thread](https://forum.prusa3d.com/forum/hardware-firmware-and-software-help/oh-no-were-skewed-prusa-mini-edition/) on the Prusa forums.
 
 ## Skew Fixes
 
